@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Front End Developer<br>🌱 I’m currently learning AI Engineering<br>
+🔭 I’m currently working as a Front End Developer<br>🌱 I’m currently learning C++ and GameDev
 
 
 # 💻 Tech Stack:
